@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Sticky Notes API built with Pixeltable"
+abstract: "Sticky-notes REST API where titles and previews are computed columns, served with FastAPI."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-sticky-notes"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-07
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "rest-api"
+  - "notes-app"
+  - "openapi"
+  - "udf"
+  - "fastapi"
+  - "multimodal"
+  - "ai"
